@@ -1,0 +1,241 @@
+Sailing Date: java.util.GregorianCalendar[time=1479295777965,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Australia/Adelaide",offset=34200000,dstSavings=3600000,useDaylight=true,transitions=142,lastRule=java.util.SimpleTimeZone[id=Australia/Adelaide,offset=34200000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=3,startMonth=9,startDay=1,startDayOfWeek=1,startTime=7200000,startTimeMode=1,endMode=3,endMonth=3,endDay=1,endDayOfWeek=1,endTime=7200000,endTimeMode=1]],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2016,MONTH=10,WEEK_OF_YEAR=47,WEEK_OF_MONTH=3,DAY_OF_MONTH=16,DAY_OF_YEAR=321,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=9,HOUR_OF_DAY=21,MINUTE=59,SECOND=37,MILLISECOND=965,ZONE_OFFSET=34200000,DST_OFFSET=3600000]
+Return Date: java.util.GregorianCalendar[time=1496147377971,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Australia/Adelaide",offset=34200000,dstSavings=3600000,useDaylight=true,transitions=142,lastRule=java.util.SimpleTimeZone[id=Australia/Adelaide,offset=34200000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=3,startMonth=9,startDay=1,startDayOfWeek=1,startTime=7200000,startTimeMode=1,endMode=3,endMonth=3,endDay=1,endDayOfWeek=1,endTime=7200000,endTimeMode=1]],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2017,MONTH=4,WEEK_OF_YEAR=22,WEEK_OF_MONTH=5,DAY_OF_MONTH=30,DAY_OF_YEAR=150,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=5,AM_PM=1,HOUR=9,HOUR_OF_DAY=21,MINUTE=59,SECOND=37,MILLISECOND=971,ZONE_OFFSET=34200000,DST_OFFSET=0]
+Employees: 
+Name: Merrill, Tamara N.
+SailorId: 292100432
+Date Of Birth: Sun Jan 17 21:59:37 ACST 1971
+Nationality: Cameroon
+Salary: 300000.0
+Is a Supervisor? : false
+
+Engineers: 
+Name: Potter, Illiana O.
+SailorId: 307100470
+Date Of Birth: Sat Apr 23 21:59:37 ACST 1955
+Nationality: Uruguay
+Salary: 80000.0
+Is a Supervisor? : true
+
+Name: Ewing, Violet F.
+SailorId: 293100428
+Date Of Birth: Tue Jul 18 21:59:37 ACST 1989
+Nationality: Antigua and Barbuda
+Salary: 80000.0
+Is a Supervisor? : false
+
+Cooks: 
+Sailors: 
+Name: Herrera, Joan W.
+SailorId: 287100678
+Date Of Birth: Tue Jan 14 21:59:37 ACDT 1986
+Nationality: Virgin Islands, United States
+Salary: 60000.0
+Is a Supervisor? : true
+
+Name: Bruce, Raymond Z.
+SailorId: 297100563
+Date Of Birth: Wed Nov 04 21:59:37 ACDT 1987
+Nationality: Guam
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Brady, Kelsey Z.
+SailorId: 277100808
+Date Of Birth: Fri Jun 15 21:59:37 ACST 1956
+Nationality: Samoa
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Weber, Robert R.
+SailorId: 286100749
+Date Of Birth: Thu Jan 15 21:59:37 ACDT 1976
+Nationality: South Africa
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Suarez, Lois B.
+SailorId: 297100604
+Date Of Birth: Fri May 13 21:59:37 ACST 1960
+Nationality: Eritrea
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Pate, Alec I.
+SailorId: 293100741
+Date Of Birth: Thu Feb 25 21:59:37 ACST 1954
+Nationality: France
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Donaldson, Lana H.
+SailorId: 28910025
+Date Of Birth: Sun Dec 05 21:59:37 ACDT 1971
+Nationality: Bonaire, Sint Eustatius and Saba
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Briggs, Leo P.
+SailorId: 285100492
+Date Of Birth: Sat Jul 07 21:59:37 ACST 1990
+Nationality: Guyana
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Hatfield, Alea N.
+SailorId: 285100182
+Date Of Birth: Sun Apr 29 21:59:37 ACST 1951
+Nationality: Belgium
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Horn, Kai J.
+SailorId: 297100619
+Date Of Birth: Sun Dec 23 21:59:37 ACST 1945
+Nationality: Malta
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Green, May H.
+SailorId: 286100811
+Date Of Birth: Thu Jan 29 21:59:37 ACST 1959
+Nationality: Myanmar
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Mcleod, Desirae I.
+SailorId: 284100210
+Date Of Birth: Wed Feb 10 21:59:37 ACST 1960
+Nationality: Poland
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Oliver, Germane F.
+SailorId: 292100312
+Date Of Birth: Tue Jun 10 21:59:37 ACST 1958
+Nationality: Saudi Arabia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Brady, Hadley F.
+SailorId: 277100314
+Date Of Birth: Mon Jan 11 21:59:37 ACDT 1988
+Nationality: Nigeria
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Calhoun, Hilda E.
+SailorId: 27210062
+Date Of Birth: Sun Jan 28 21:59:37 ACST 1951
+Nationality: Tunisia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Salazar, Wayne W.
+SailorId: 28810057
+Date Of Birth: Mon Dec 11 21:59:37 ACST 1961
+Nationality: Qatar
+Salary: 50000.0
+Is a Supervisor? : false
+
+
+Total Salary Cost: 1350000.0
+Total Docking Fee: 40000.0
+Sailing Date: java.util.GregorianCalendar[time=1479295777965,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Australia/Adelaide",offset=34200000,dstSavings=3600000,useDaylight=true,transitions=142,lastRule=java.util.SimpleTimeZone[id=Australia/Adelaide,offset=34200000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=3,startMonth=9,startDay=1,startDayOfWeek=1,startTime=7200000,startTimeMode=1,endMode=3,endMonth=3,endDay=1,endDayOfWeek=1,endTime=7200000,endTimeMode=1]],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2016,MONTH=10,WEEK_OF_YEAR=47,WEEK_OF_MONTH=3,DAY_OF_MONTH=16,DAY_OF_YEAR=321,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=9,HOUR_OF_DAY=21,MINUTE=59,SECOND=37,MILLISECOND=965,ZONE_OFFSET=34200000,DST_OFFSET=3600000]
+Return Date: java.util.GregorianCalendar[time=1496147377971,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Australia/Adelaide",offset=34200000,dstSavings=3600000,useDaylight=true,transitions=142,lastRule=java.util.SimpleTimeZone[id=Australia/Adelaide,offset=34200000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=3,startMonth=9,startDay=1,startDayOfWeek=1,startTime=7200000,startTimeMode=1,endMode=3,endMonth=3,endDay=1,endDayOfWeek=1,endTime=7200000,endTimeMode=1]],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2017,MONTH=4,WEEK_OF_YEAR=22,WEEK_OF_MONTH=5,DAY_OF_MONTH=30,DAY_OF_YEAR=150,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=5,AM_PM=1,HOUR=9,HOUR_OF_DAY=21,MINUTE=59,SECOND=37,MILLISECOND=971,ZONE_OFFSET=34200000,DST_OFFSET=0]
+Employees: 
+Name: Salazar, Wayne W.
+SailorId: 288100716
+Date Of Birth: Mon Dec 11 21:59:38 ACST 1961
+Nationality: Qatar
+Salary: 300000.0
+Is a Supervisor? : true
+
+Engineers: 
+Name: Valdez, Emi P.
+SailorId: 291100520
+Date Of Birth: Thu Jun 23 21:59:38 ACST 1949
+Nationality: American Samoa
+Salary: 80000.0
+Is a Supervisor? : true
+
+Cooks: 
+Name: Gonzalez, Lester D.
+SailorId: 292100108
+Date Of Birth: Sun Sep 07 21:59:38 ACST 1975
+Nationality: Romania
+Salary: 80000.0
+Is a Supervisor? : true
+
+Sailors: 
+Name: Larsen, Damian X.
+SailorId: 287100181
+Date Of Birth: Wed Dec 17 21:59:38 ACST 1958
+Nationality: Israel
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Mercado, Michelle W.
+SailorId: 292100283
+Date Of Birth: Sat Oct 16 21:59:38 ACDT 1943
+Nationality: Germany
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Wiley, Elmo A.
+SailorId: 300100459
+Date Of Birth: Fri Jan 05 21:59:38 ACST 1962
+Nationality: Slovakia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Snyder, Hermione K.
+SailorId: 314100540
+Date Of Birth: Sat Feb 06 21:59:38 ACST 1965
+Nationality: Northern Mariana Islands
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Mcgee, Chantale H.
+SailorId: 279100392
+Date Of Birth: Wed Aug 25 21:59:38 ACST 1954
+Nationality: Armenia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Andrews, Ralph D.
+SailorId: 275100448
+Date Of Birth: Fri Oct 27 21:59:38 ACST 1967
+Nationality: Greenland
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Suarez, Lois B.
+SailorId: 297100123
+Date Of Birth: Fri May 13 21:59:38 ACST 1960
+Nationality: Eritrea
+Salary: 60000.0
+Is a Supervisor? : true
+
+
+Total Salary Cost: 840000.0
+Total Docking Fee: 300000.0

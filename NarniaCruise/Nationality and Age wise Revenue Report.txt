@@ -1,0 +1,62 @@
+NationalityWiseRevenue
+Sweden : 1907.0
+South Africa : 997.0
+Bahamas : 1098.0
+Dominican Republic : 1939.0
+Cocos (Keeling) Islands : 939.0
+United States Minor Outlying Islands : 1053.0
+Jordan : 1063.0
+Kiribati : 2122.0
+Canada : 1128.0
+China : 1099.0
+India : 28364.0
+Lithuania : 2075.0
+Yemen : 959.0
+Cayman Islands : 1033.0
+Turkmenistan : 1055.0
+French Guiana : 960.0
+Kazakhstan : 1093.0
+Romania : 1000.0
+Macao : 1117.0
+Pitcairn Islands : 1117.0
+Palau : 1100.0
+Isle of Man : 1001.0
+Guinea-Bissau : 986.0
+Botswana : 986.0
+Spain : 1020.0
+United Kingdom (Great Britain) : 1116.0
+Cambodia : 973.0
+Niue : 966.0
+Western Sahara : 966.0
+Cameroon : 1092.0
+Niger : 1122.0
+Belize : 998.0
+Bonaire : 1000.0
+Mexico : 956.0
+Croatia : 1046.0
+Japan : 954.0
+Guam : 1078.0
+Jersey : 1030.0
+Monaco : 979.0
+Uruguay : 1973.0
+Togo : 1070.0
+Mauritius : 1072.0
+Korea, North : 1050.0
+Ukraine : 936.0
+Ethiopia : 948.0
+Cuba : 1018.0
+Belarus : 1115.0
+Pakistan : 1053.0
+Senegal : 1056.0
+Tanzania : 1120.0
+Mauritania : 1036.0
+Trinidad and Tobago : 1116.0
+Hong Kong : 1001.0
+
+
+AgeWiseRevenue
+75-100 : 0.0
+100-125 : 0.0
+50-75 : 23605.0
+25-50 : 30231.0
+0-25 : 35218.0

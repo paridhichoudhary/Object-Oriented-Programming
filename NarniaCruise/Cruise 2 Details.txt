@@ -1,0 +1,432 @@
+Employees: 
+Name: Salazar, Wayne W.
+SailorId: 288100716
+Date Of Birth: Mon Dec 11 21:59:38 ACST 1961
+Nationality: Qatar
+Salary: 300000.0
+Is a Supervisor? : true
+
+Engineers: 
+Name: Valdez, Emi P.
+SailorId: 291100520
+Date Of Birth: Thu Jun 23 21:59:38 ACST 1949
+Nationality: American Samoa
+Salary: 80000.0
+Is a Supervisor? : true
+
+Cooks: 
+Name: Gonzalez, Lester D.
+SailorId: 292100108
+Date Of Birth: Sun Sep 07 21:59:38 ACST 1975
+Nationality: Romania
+Salary: 80000.0
+Is a Supervisor? : true
+
+Sailors: 
+Name: Larsen, Damian X.
+SailorId: 287100181
+Date Of Birth: Wed Dec 17 21:59:38 ACST 1958
+Nationality: Israel
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Mercado, Michelle W.
+SailorId: 292100283
+Date Of Birth: Sat Oct 16 21:59:38 ACDT 1943
+Nationality: Germany
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Wiley, Elmo A.
+SailorId: 300100459
+Date Of Birth: Fri Jan 05 21:59:38 ACST 1962
+Nationality: Slovakia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Snyder, Hermione K.
+SailorId: 314100540
+Date Of Birth: Sat Feb 06 21:59:38 ACST 1965
+Nationality: Northern Mariana Islands
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Mcgee, Chantale H.
+SailorId: 279100392
+Date Of Birth: Wed Aug 25 21:59:38 ACST 1954
+Nationality: Armenia
+Salary: 60000.0
+Is a Supervisor? : true
+
+Doctors: 
+Name: Andrews, Ralph D.
+SailorId: 275100448
+Date Of Birth: Fri Oct 27 21:59:38 ACST 1967
+Nationality: Greenland
+Salary: 50000.0
+Is a Supervisor? : false
+
+Doctors: 
+Name: Suarez, Lois B.
+SailorId: 297100123
+Date Of Birth: Fri May 13 21:59:38 ACST 1960
+Nationality: Eritrea
+Salary: 60000.0
+Is a Supervisor? : true
+
+
+Passengers: 
+Name: Carpenter, Gavin Q.
+PassengerNumber: 5852404
+HomeAddress: P.O. Box 864
+Date Of Birth: Sun Jan 27 21:59:38 ACDT 1985
+Age: 32.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 30.0
+
+Name: Ayers, Tamekah R.
+PassengerNumber: 5699607
+HomeAddress: 1759 Sed Road
+Date Of Birth: Tue Jul 09 21:59:38 ACST 1991
+Age: 26.0
+Nationality: Sweden
+Money paid for joining cruise: 900.0
+Money spent on cruise : 32.0
+
+Name: Snider, Clarke A.
+PassengerNumber: 1417337
+HomeAddress: P.O. Box 902, 8069 Leo. St.
+Date Of Birth: Sat Apr 05 21:59:38 ACST 2003
+Age: 14.0
+Nationality: Ethiopia
+Money paid for joining cruise: 900.0
+Money spent on cruise : 48.0
+
+Name: Meyers, Karleigh N.
+PassengerNumber: 1908126
+HomeAddress: 517-6220 Vulputate Road
+Date Of Birth: Sat May 03 21:59:38 ACST 2008
+Age: 9.0
+Nationality: Japan
+Money paid for joining cruise: 900.0
+Money spent on cruise : 54.0
+
+Name: Love, Ciara I.
+PassengerNumber: 7306997
+HomeAddress: Ap #550-5849 Commodo Ave
+Date Of Birth: Wed May 29 21:59:38 ACST 2013
+Age: 4.0
+Nationality: Mexico
+Money paid for joining cruise: 900.0
+Money spent on cruise : 56.0
+
+Name: Slater, Baxter M.
+PassengerNumber: 6121065
+HomeAddress: 3294 Aliquam Street
+Date Of Birth: Mon Sep 10 21:59:38 ACST 2007
+Age: 10.0
+Nationality: Niue
+Money paid for joining cruise: 900.0
+Money spent on cruise : 66.0
+
+Name: Harris, Uriah O.
+PassengerNumber: 7212742
+HomeAddress: 283-5229 Tincidunt Road
+Date Of Birth: Sun Feb 21 21:59:38 ACDT 1982
+Age: 35.0
+Nationality: Sweden
+Money paid for joining cruise: 900.0
+Money spent on cruise : 75.0
+
+Name: Levine, Marny Q.
+PassengerNumber: 3126662
+HomeAddress: 4313 Etiam St.
+Date Of Birth: Fri Mar 12 21:59:38 ACST 1948
+Age: 69.0
+Nationality: Dominican Republic
+Money paid for joining cruise: 900.0
+Money spent on cruise : 86.0
+
+Name: Blackburn, Lila A.
+PassengerNumber: 1440673
+HomeAddress: 562-1813 Leo. Rd.
+Date Of Birth: Wed Apr 07 21:59:38 ACST 1999
+Age: 18.0
+Nationality: Guinea-Bissau
+Money paid for joining cruise: 900.0
+Money spent on cruise : 86.0
+
+Name: Watkins, Walker M.
+PassengerNumber: 3242778
+HomeAddress: 8775 Orci
+Date Of Birth: Wed Jul 02 21:59:38 ACST 1969
+Age: 48.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 89.0
+
+Name: Jarvis, Kaseem Y.
+PassengerNumber: 6063275
+HomeAddress: P.O. Box 145
+Date Of Birth: Mon Sep 18 21:59:38 ACST 1961
+Age: 56.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 91.0
+
+Name: Moon, Geraldine V.
+PassengerNumber: 3881792
+HomeAddress: Ap #455-3095 Malesuada. Av.
+Date Of Birth: Mon Mar 20 21:59:38 ACST 1961
+Age: 56.0
+Nationality: Kiribati
+Money paid for joining cruise: 900.0
+Money spent on cruise : 93.0
+
+Name: Langley, Isaac T.
+PassengerNumber: 1375289
+HomeAddress: P.O. Box 223
+Date Of Birth: Sat Oct 17 21:59:38 ACDT 2015
+Age: 1.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 94.0
+
+Name: Gilliam, Armando B.
+PassengerNumber: 6240875
+HomeAddress: 774-2654 Nunc Rd.
+Date Of Birth: Sun Oct 01 21:59:38 ACST 1944
+Age: 73.0
+Nationality: South Africa
+Money paid for joining cruise: 900.0
+Money spent on cruise : 97.0
+
+Name: Gates, Aubrey C.
+PassengerNumber: 9335788
+HomeAddress: 5507 Mi Rd.
+Date Of Birth: Sun Aug 12 21:59:38 ACST 2007
+Age: 10.0
+Nationality: Bonaire
+Money paid for joining cruise: 900.0
+Money spent on cruise : 100.0
+
+Name: Christensen, Aladdin W.
+PassengerNumber: 8876524
+HomeAddress: Ap #380-7436 Dui Street
+Date Of Birth: Tue May 30 21:59:38 ACST 1989
+Age: 28.0
+Nationality: Hong Kong
+Money paid for joining cruise: 900.0
+Money spent on cruise : 101.0
+
+Name: Townsend, Tatum G.
+PassengerNumber: 4150156
+HomeAddress: Ap #327-5755 Et St.
+Date Of Birth: Sun Sep 21 21:59:38 ACST 2003
+Age: 14.0
+Nationality: Uruguay
+Money paid for joining cruise: 900.0
+Money spent on cruise : 112.0
+
+Name: Carson, Pascale O.
+PassengerNumber: 5661136
+HomeAddress: P.O. Box 963, 5885 Cras Road
+Date Of Birth: Sun Dec 09 21:59:38 ACST 1945
+Age: 71.0
+Nationality: Jersey
+Money paid for joining cruise: 900.0
+Money spent on cruise : 130.0
+
+Name: Gray, Keegan A.
+PassengerNumber: 7391795
+HomeAddress: Ap #284-8594 Vivamus Rd.
+Date Of Birth: Fri Sep 23 21:59:38 ACST 1955
+Age: 62.0
+Nationality: Mauritania
+Money paid for joining cruise: 900.0
+Money spent on cruise : 136.0
+
+Name: Bennett, Alisa F.
+PassengerNumber: 9786607
+HomeAddress: P.O. Box 869, 1407 Urna. Av.
+Date Of Birth: Thu Feb 27 21:59:38 ACST 1969
+Age: 48.0
+Nationality: Korea, North
+Money paid for joining cruise: 900.0
+Money spent on cruise : 150.0
+
+Name: Duffy, Justine C.
+PassengerNumber: 1893582
+HomeAddress: 5816 Dis Rd.
+Date Of Birth: Wed Nov 05 21:59:38 ACST 1958
+Age: 58.0
+Nationality: Senegal
+Money paid for joining cruise: 900.0
+Money spent on cruise : 156.0
+
+Name: Glass, Chava Q.
+PassengerNumber: 5722092
+HomeAddress: 397 Gravida Rd.
+Date Of Birth: Wed Mar 01 21:59:38 ACDT 1978
+Age: 39.0
+Nationality: Jordan
+Money paid for joining cruise: 900.0
+Money spent on cruise : 163.0
+
+Name: Rogers, Rachel G.
+PassengerNumber: 9769884
+HomeAddress: 963-6931 Vitae Rd.
+Date Of Birth: Wed Jul 30 21:59:38 ACST 2003
+Age: 14.0
+Nationality: Togo
+Money paid for joining cruise: 900.0
+Money spent on cruise : 170.0
+
+Name: Wiley, Wing U.
+PassengerNumber: 6201204
+HomeAddress: 8740 Vel Av.
+Date Of Birth: Tue Mar 21 21:59:38 ACDT 1944
+Age: 73.0
+Nationality: Saint Martin
+Money paid for joining cruise: 900.0
+Money spent on cruise : 172.0
+
+Name: Mcconnell, Tatiana X.
+PassengerNumber: 8392301
+HomeAddress: 8429 Lobortis St.
+Date Of Birth: Thu Jul 22 21:59:38 ACST 1982
+Age: 35.0
+Nationality: Mauritius
+Money paid for joining cruise: 900.0
+Money spent on cruise : 172.0
+
+Name: Pope, Eagan G.
+PassengerNumber: 1354884
+HomeAddress: 8581 Non
+Date Of Birth: Mon Jul 26 21:59:38 ACST 1965
+Age: 52.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 178.0
+
+Name: Small, Madeson E.
+PassengerNumber: 3573016
+HomeAddress: 577-1915 Neque Avenue
+Date Of Birth: Sun May 09 21:59:38 ACST 1999
+Age: 18.0
+Nationality: Guam
+Money paid for joining cruise: 900.0
+Money spent on cruise : 178.0
+
+Name: Burgess, Hilel S.
+PassengerNumber: 4047858
+HomeAddress: 586-9483 Consequat St.
+Date Of Birth: Thu Apr 16 21:59:38 ACST 2015
+Age: 2.0
+Nationality: Cameroon
+Money paid for joining cruise: 900.0
+Money spent on cruise : 192.0
+
+Name: Horne, Virginia N.
+PassengerNumber: 6549059
+HomeAddress: P.O. Box 433
+Date Of Birth: Tue Apr 16 21:59:38 ACST 1974
+Age: 43.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 196.0
+
+Name: Wright, Angelica X.
+PassengerNumber: 2709629
+HomeAddress: 127-2089 Aliquet Avenue
+Date Of Birth: Thu Dec 03 21:59:38 ACDT 1981
+Age: 35.0
+Nationality: Lithuania
+Money paid for joining cruise: 900.0
+Money spent on cruise : 210.0
+
+Name: Beach, Destiny P.
+PassengerNumber: 9088343
+HomeAddress: P.O. Box 687
+Date Of Birth: Wed May 17 21:59:38 ACST 2006
+Age: 11.0
+Nationality: India
+Money paid for joining cruise: 900.0
+Money spent on cruise : 211.0
+
+Name: Howell, Dakota I.
+PassengerNumber: 5007860
+HomeAddress: 1978 Sagittis St.
+Date Of Birth: Mon Jan 08 21:59:38 ACST 1962
+Age: 55.0
+Nationality: Trinidad and Tobago
+Money paid for joining cruise: 900.0
+Money spent on cruise : 216.0
+
+Name: Blair, Courtney N.
+PassengerNumber: 7754552
+HomeAddress: 452 Ornare. St.
+Date Of Birth: Tue Jul 25 21:59:38 ACST 1989
+Age: 28.0
+Nationality: Pitcairn Islands
+Money paid for joining cruise: 900.0
+Money spent on cruise : 217.0
+
+Name: Butler, Bernard M.
+PassengerNumber: 2013041
+HomeAddress: 6273 Molestie Street
+Date Of Birth: Tue Nov 10 21:59:38 ACST 1959
+Age: 57.0
+Nationality: Tanzania
+Money paid for joining cruise: 900.0
+Money spent on cruise : 220.0
+
+Name: Welch, Galvin Y.
+PassengerNumber: 4508549
+HomeAddress: Ap #449-4277 Orci Rd.
+Date Of Birth: Sat Jul 04 21:59:38 ACST 1998
+Age: 19.0
+Nationality: Niger
+Money paid for joining cruise: 900.0
+Money spent on cruise : 222.0
+
+
+Ports of Call: 
+Name: Gualdo Cattaneo
+Country: Montenegro
+Population: 505600221
+Passport Required? : true
+
+Name: Nanaimo
+Country: Micronesia
+Population: 669451131
+Passport Required? : false
+
+Name: Marzi
+Country: Ethiopia
+Population: 853934008
+Passport Required? : true
+
+Name: Montebello
+Country: South Georgia and The South Sandwich Islands
+Population: 53802021
+Passport Required? : false
+
+Name: B̩ziers
+Country: Liberia
+Population: 488291265
+Passport Required? : true
+
+Name: Gualdo Cattaneo
+Country: Montenegro
+Population: 505600221
+Passport Required? : true
+
+
+Money Spent by Passengers on cruise: 
+4599.0
